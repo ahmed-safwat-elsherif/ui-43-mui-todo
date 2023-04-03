@@ -1,0 +1,31 @@
+{
+  "todo-groups": [
+    {
+      "id": "asdf",
+      "title": "Todo group 1",
+      "imgSrc": "https://cdn.pixabay.com/phto/2014/02/27/16/10/flowers-276014__340.jpg",
+      "description": "This is the description of todo group 1"
+    },
+    {
+      "id": "zxvczxc",
+      "title": "Todo group 2",
+      "imgSrc": "https://wallpapers.com/images/featured/2ygv7ssy2k0lxlzu.jpg",
+      "description": "This is the description of todo group 2"
+    }
+  ],
+  "todos": [
+    {
+      "id": "aWASADFsdv",
+      "title": "Todo 1",
+      "completed": false,
+      "groupId": "asdf"
+    },
+    { "id": "xcvbWE", "title": "Todo 2", "completed": true, "groupId": "asdf" },
+    {
+      "id": "RTYUnyr",
+      "title": "Todo 3",
+      "completed": false,
+      "groupId": "zxvczxc"
+    }
+  ]
+}
